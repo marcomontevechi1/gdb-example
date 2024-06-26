@@ -1,0 +1,6 @@
+b Cat::talkToYourLeader
+commands
+print multitude.peopleNumber
+continue
+end
+run
